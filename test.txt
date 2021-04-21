@@ -1,0 +1,9 @@
+/*hello world
+test test*/
+//testing comment functionality
+//Test1
+//C23:=(565*72)+32
+//Test2
+//write 55*(32+(56*a456))
+//Test 3
+C23:=(565*72)+32 write 55*(32+(56*a456))
